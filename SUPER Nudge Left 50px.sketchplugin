@@ -1,0 +1,10 @@
+// SUPER Nudge Left (ctrl shift ←)
+(function() {
+  for(var i=0; i < [selection length]; i++){
+    var s = selection[i]
+    var frame = [s frame]
+
+    [frame setX:([frame x] - 50)]
+
+  }
+}())
