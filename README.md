@@ -10,8 +10,7 @@ CTRL + ⇧ + arrow keys: nudge 50 pixels
 Want to nudge by another variable? Just edit the .skethplugin files with your favorite text editor.
 
 
-####Made by Caleb Amesbury
-
-www.CalebAmesbury.com
+##Kudos
+Made by Caleb Amesbury, www.CalebAmesbury.com
 
 Thanks for root from: Copyright (c) 2014 Ale Muñoz
