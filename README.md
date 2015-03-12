@@ -11,6 +11,7 @@ CTRL + ⇧ + arrow keys: nudge 50 pixels
 
 Want to nudge by another variable? Just edit the .skethplugin files with your favorite text editor.
 
+![alt text](http://calebamesbury.com/dribbble/mission-control.png)
 **NOTE: These keyboard shortcuts may already be assigned by default in OSX.  To change these go to System Preferences> Mission Control and look for "Mission Control" and "Application Windows".
 
 
