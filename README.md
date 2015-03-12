@@ -10,6 +10,7 @@ A much-needed command for scootin' lazy pixels in increments greater than the st
 CTRL + ⇧ + arrow keys: nudge 50 pixels
 
 Want to nudge by another variable? Just edit the .skethplugin files with your favorite text editor.
+*NOTE: These keyboard shortcuts may already be assigned by default in OSX.  To change these go to System Preferences> Mission Control and look for "Mission Control" and "Application Windows".
 
 
 ##Kudos
