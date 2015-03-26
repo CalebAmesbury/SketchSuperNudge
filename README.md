@@ -7,7 +7,7 @@ A much-needed command for scootin' lazy pixels in increments greater than the st
 
 ## Keyboard Shortcuts
 
-`CTRL + ⇧ + arrow keys`: nudge 50 pixels
+`CTRL` + `⇧` + `arrow keys` : nudge 50 pixels
 
 Want to nudge by another variable? Just edit the .skethplugin files with your favorite text editor.
 
